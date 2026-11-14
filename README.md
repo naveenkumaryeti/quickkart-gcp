@@ -78,3 +78,4 @@ GCP project with billing; `gcloud` >= 450, `terraform` >= 1.5, `python3`; permis
 
 ## Docs index
 `docs/DEPLOYMENT.md` (env vars, Terraform, rollback), `IAM-GUIDE.md`, `NETWORKING-GUIDE.md`, `STORAGE-GUIDE.md` (GCS, Firestore, Pub/Sub), `API.md`, `TROUBLESHOOTING.md`, `TEST-REPORT.md`, `CHANGES.md`.
+.......
